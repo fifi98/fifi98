@@ -4,7 +4,7 @@ I am a full stack web developer with many years of experience working on various
 
 I am very persistent in what I do and pay very close attention to details. I am flexible with working hours and maintain good communication with my clients. I am interested in both short and long term projects. Click on the repositories tab to see my portfolio.
 
-## 🔧 Technologies & Skills
+## 👨‍💻 Technologies & Skills
 
 Front-end: 
 - HTML, CSS 
