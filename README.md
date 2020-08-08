@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**fifi98/fifi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack web developer with many years of experience working on various projects. My main focus is web development (both front-end and back-end) but I also do mobile development using React Native. 
 
-Here are some ideas to get you started:
+I am very persistent in what I do and pay very close attention to details. I am flexible with working hours and maintain good communication with my clients. I am interested in both short and long term projects. Click on the repositories tab to see my portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Skills
+
+Front-end: 
+- HTML, CSS 
+- JavaScript (ES6) 
+- AJAX 
+- React, Redux 
+- Bootstrap Framework 
+- REST API integration  
+
+Back-end: 
+- Node.js, Express 
+- PHP 
+- REST API implementation  
+
+Database management: 
+- MySQL  
+
+Other: 
+- Git version control 
+- Linux server management 
+- C# 
+- C++ basics
+
