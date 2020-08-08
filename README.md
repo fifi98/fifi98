@@ -6,25 +6,10 @@ I am very persistent in what I do and pay very close attention to details. I am 
 
 ## 👨‍💻 Technologies & Skills
 
-Front-end: 
-- HTML, CSS 
-- JavaScript (ES6) 
-- AJAX 
-- React, Redux 
-- Bootstrap Framework 
-- REST API integration  
+HTML, CSS, JavaScript (ES6), AJAX, React, Redux, Bootstrap Framework, REST API integration
 
-Back-end: 
-- Node.js, Express 
-- PHP 
-- REST API implementation  
+Node.js, Express, PHP, REST API implementation
 
-Database management: 
-- MySQL  
+MySQL
 
-Other: 
-- Git version control 
-- Linux server management 
-- C# 
-- C++ basics
-
+Git version control, Linux server management, C#, C++ basics
