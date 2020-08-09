@@ -9,7 +9,7 @@ I am very persistent in what I do and pay very close attention to details. I am 
 - HTML, CSS, JavaScript (ES6), AJAX, React, Redux, Bootstrap Framework, REST API integration
 - Node.js, Express, PHP, REST API implementation
 - MySQL
-- Git version control, Linux server management, C#, C++ basics
+- Git version control, Linux server management, C#, C++ basics, WebSockets (socket.io)
 
 ## 🛠️ Projects
 
