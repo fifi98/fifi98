@@ -6,10 +6,10 @@ I am very persistent in what I do and pay very close attention to details. I am 
 
 ## 👨‍💻 Technologies & Skills
 
-- HTML, CSS, JavaScript (ES6), AJAX, React, React Hooks, Redux, React Native, Bootstrap Framework, REST API integration
+- HTML, CSS, JavaScript (ES6+), AJAX, React, React Hooks, Redux, React Native, Bootstrap, REST API integration
 - Node.js, Express, PHP, REST API implementation
 - MySQL, MongoDB
-- Git version control, Linux server management, C#, C++ basics, WebSockets (socket.io)
+- Git version control, Linux server management, C#, C++ basics, WebSockets (socket.io), Swagger/Open API
 
 ## 🛠️ Projects
 
