@@ -7,8 +7,8 @@ I am very persistent in what I do and pay very close attention to details. I am 
 ## 👨‍💻 Technologies & Skills
 
 - HTML, CSS, JavaScript (ES6+), TypeScript, AJAX, React, React Hooks, Redux, React Native, Bootstrap, REST API integration
-- Node.js, Express, PHP, REST API implementation, AWS S3, GraphQL (Apollo), AWS
-- MySQL, MongoDB
+- Node.js, Express, PHP, REST API implementation, AWS, GraphQL (Apollo), Serverless
+- MySQL, MongoDB, DynamoDB, Elasticsearch
 - Git version control, Linux server management, C#, C++ basics, WebSockets (socket.io), Swagger/Open API
 
 ## 🛠️ Projects
