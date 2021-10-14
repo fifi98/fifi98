@@ -2,7 +2,7 @@
 
 I am a full stack freelance web developer with many years of experience working on various projects. My main focus is web development (both front-end and back-end) but I also do mobile development using React Native. 
 
-I am very persistent in what I do and pay very close attention to details. I am flexible with working hours and maintain good communication with my clients. I am interested in both short and long term projects.
+I like working in a team and am always ready to learn something new. I am very persistent in what I do and pay veeery close attention to details. My main technology stack includes JavaScript/TypeScript, Node.js, GraphQL, AWS, Express.js, React/Next.js and MongoDB.
 
 ## 👨‍💻 Technologies & Skills
 
