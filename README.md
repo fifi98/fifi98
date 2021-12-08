@@ -8,7 +8,7 @@ My main technology stack includes JavaScript/TypeScript, Node.js, GraphQL, AWS, 
 
 - HTML, CSS, JavaScript (ES6+), TypeScript, AJAX, React, React Hooks, Redux, React Native, Next.js, Bootstrap
 - Node.js, Express.js, REST API, AWS, GraphQL (Apollo), Serverless
-- MySQL, MongoDB, DynamoDB, Elasticsearch
+- MySQL, MongoDB, PostgreSQL, DynamoDB, Elasticsearch
 - Git version control, NPM, yarn, Linux server management, Swagger/Open API, WebSocket (Socket.io), C#, PHP, Agile software development
 
 ## 🛠️ Projects
